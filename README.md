@@ -14,8 +14,11 @@ https://github.com/myhyun01/addBook_robot.git
 
  3.안전모 탐지 모델
 
+https://colab.research.google.com/drive/1kxQJ90fCw21VwO7oCCxRmDXOxMxYNywa
 
  4.연기 탐지 모델
+
+ https://colab.research.google.com/drive/1v_-C96O5Nc8ooeG6iBeGwKpS_7qt-OsJ
 
 5.주차공간 탐지 모델
 
