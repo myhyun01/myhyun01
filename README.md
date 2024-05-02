@@ -16,7 +16,7 @@ https://github.com/myhyun01/addBook_robot.git
 
 https://colab.research.google.com/drive/1kxQJ90fCw21VwO7oCCxRmDXOxMxYNywa
 
- 4.연기 탐지 모델(Smoke_detec)
+ 4.연기 탐지 모델(Smoke_detection)
 
  https://colab.research.google.com/drive/1v_-C96O5Nc8ooeG6iBeGwKpS_7qt-OsJ
 
