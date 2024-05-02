@@ -18,3 +18,5 @@ https://github.com/myhyun01/addBook_robot.git
  4.연기 탐지 모델
 
 5.주차공간 탐지 모델
+
+https://colab.research.google.com/drive/1qDxwSVCXRun6zvy41B5GU08B3ZUZ5pTb#scrollTo=iQTIJh1-P6fr
