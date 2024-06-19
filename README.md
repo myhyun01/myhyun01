@@ -23,3 +23,7 @@ https://colab.research.google.com/drive/1kxQJ90fCw21VwO7oCCxRmDXOxMxYNywa
 5.주차공간 탐지 모델(Parking_lot)
 
 https://colab.research.google.com/drive/1qDxwSVCXRun6zvy41B5GU08B3ZUZ5pTb#scrollTo=iQTIJh1-P6fr
+
+6.객체탐지모델을 이용한 로봇이 움직이고 음성을 텍스트로 보여주는 모델
+
+https://github.com/myhyun01/nativeAppYoloCustom
