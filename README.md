@@ -28,13 +28,7 @@ https://colab.research.google.com/drive/1qDxwSVCXRun6zvy41B5GU08B3ZUZ5pTb#scroll
 
 https://github.com/myhyun01/nativeAppYoloCustom
 
-7. 비트 고급 일주일 프로젝트
-- 이 프로젝트는 오픈소스 경진 대회에 나간 프로젝트입니다.
-- 사용자가 수업이나 회의에서 편리하게 녹음된 소리들을 글로 정리해주고 AI를 활용해서 알아서 설명해주는 프로젝트입니다.
-
-https://github.com/myhyun01/STT
-
-8. 비트 고급 3개월 프로젝트
-- 이 프로젝트는 학교 지도 앱입니다. 학생, 교수 그리고 외부인까지의 편리함을 위한 앱입니다.
+7. 비트 고급 3개월 프로젝트
+ - 이 프로젝트는 학교 지도 앱입니다. 학생, 교수 그리고 외부인까지의 편리함을 위한 앱입니다.
 
 https://github.com/myhyun01/wsumap
