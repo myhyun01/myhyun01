@@ -27,3 +27,9 @@ https://colab.research.google.com/drive/1qDxwSVCXRun6zvy41B5GU08B3ZUZ5pTb#scroll
 6.객체탐지모델을 이용한 로봇이 움직이고 음성을 텍스트로 보여주는 모델
 
 https://github.com/myhyun01/nativeAppYoloCustom
+
+7. 비트 고급 일주일 프로젝트
+
+8. 비트 고급 3개월 프로젝트
+- 이 프로젝트는 학교 지도 앱입니다. 학생, 교수 그리고 외부인까지의 편리함을 위한 앱입니다.
+https://github.com/myhyun01/wsumap
